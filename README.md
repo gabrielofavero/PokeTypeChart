@@ -6,8 +6,7 @@ A clean Excel Spreadsheet that simplifies any Pokemon type search
 For not it's a simple spreadsheet with single and double pokemon types. I MIGHT make a HTML version. Still not sure.
 
 Based on:
-Single Type Chart: https://www.reddit.com/r/pokemon/comments/1oq3rg/was_getting_frustrated_finding_an_easytoread_type/
-Dual Type Chart: https://pokemondb.net/type/dual
+[Single Type Chart](https://www.reddit.com/r/pokemon/comments/1oq3rg/was_getting_frustrated_finding_an_easytoread_type/) and [Dual Type Chart] (https://pokemondb.net/type/dual)
 
 ## Instructions
 - Download the latest version
