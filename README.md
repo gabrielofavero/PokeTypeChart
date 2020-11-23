@@ -1,7 +1,7 @@
 # PokeTypeChart
 A clean Excel Spreadsheet that simplifies any Pokemon type search
 
-![alt text](https://i.imgur.com/JyQuLhM.gif)
+![alt text](https://i.imgur.com/5PpahUv.gif)
 
 For not it's a simple spreadsheet with single and double pokemon types. I MIGHT make a HTML version. Still not sure.
 
