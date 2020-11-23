@@ -14,7 +14,7 @@ Based on [Single Type Chart](https://www.reddit.com/r/pokemon/comments/1oq3rg/wa
 ## Other Info
 
 ### I've Found a Bug / This Chart is outdated / I have an idea!
-Feel free to contact me here or on reddit (GabrielXZLIVE)
+Feel free to contact me here or on reddit ([GabrielXZLIVE](https://www.reddit.com/user/GabrielXZLIVE))
 
 ### I wanna help!
 Great! Send me a message and we will figure what to do!
